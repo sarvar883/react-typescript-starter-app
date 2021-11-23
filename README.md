@@ -6,7 +6,7 @@ You can structure your app as shown in this repo.
 
 ### `Features:`
 - Bootstrap 5 is integrated locally (bootstrap-icons are also included)
-- Redux is created and bound with React
+- Redux Store is created and bound with React
 - Latest React Router v6 is used
 - Basic tsconfig is provided
 - LazyLoad example is provided to improve performance
